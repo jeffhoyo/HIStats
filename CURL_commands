@@ -1,0 +1,5 @@
+Service Record:
+curl --insecure --request GET --url https://cryptum.halodotapi.com/games/hi/stats/players/GAMERTAG/service-record/top-100
+--header 'Authorization: Cryptum-Token TOKEN_KEY' 
+--header 'Content-Type: application/json'
+--header 'Cryptum-API-Version: 2.3-alpha' >> service_record.json

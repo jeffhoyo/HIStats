@@ -1,0 +1,1963 @@
+{
+    "data": [
+        {
+            "id": "42305b9a-67bb-410f-afd6-48ef73f7bd23",
+            "details": {
+                "category": {
+                    "name": "Slayer",
+                    "asset": {
+                        "id": "c2d20d44-8606-4669-b894-afae15b3524f",
+                        "version": "9eee25fe-39db-493f-ab0d-d95403df66b8",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/slayer.png"
+                    }
+                },
+                "map": {
+                    "name": "Recharge",
+                    "asset": {
+                        "id": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                        "version": "8ed490af-c0e1-4e0a-b610-50aae3dc053c",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/recharge.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 10,
+                    "deaths": 10,
+                    "assists": 6,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 6
+                },
+                "damage": {
+                    "taken": 2980,
+                    "dealt": 2942
+                },
+                "shots": {
+                    "fired": 346,
+                    "landed": 158,
+                    "missed": 188,
+                    "accuracy": 45.66
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 1,
+                        "grenades": 1,
+                        "headshots": 7,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 2,
+                "kdr": 1,
+                "score": 1300
+            },
+            "rank": 3,
+            "outcome": "win",
+            "experience": "arena",
+            "played_at": "2021-11-17T04:49:54.431Z",
+            "duration": {
+                "seconds": 502,
+                "human": "00h 08m 22s"
+            }
+        },
+        {
+            "id": "b4c34a9d-fb42-4ce5-8368-f43381e624aa",
+            "details": {
+                "category": {
+                    "name": "Slayer",
+                    "asset": {
+                        "id": "c2d20d44-8606-4669-b894-afae15b3524f",
+                        "version": "9eee25fe-39db-493f-ab0d-d95403df66b8",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/slayer.png"
+                    }
+                },
+                "map": {
+                    "name": "Aquarius",
+                    "asset": {
+                        "id": "33c0766c-ef15-48f8-b298-34aba5bff3b4",
+                        "version": "1981275f-d570-4d04-ab3b-980e3591a0b5",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/aquarius.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 13,
+                    "deaths": 12,
+                    "assists": 5,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 4
+                },
+                "damage": {
+                    "taken": 3723,
+                    "dealt": 4006
+                },
+                "shots": {
+                    "fired": 552,
+                    "landed": 235,
+                    "missed": 317,
+                    "accuracy": 42.57
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 1,
+                        "grenades": 1,
+                        "headshots": 9,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 2.66,
+                "kdr": 1.0833333333333333,
+                "score": 1550
+            },
+            "rank": 6,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-17T04:39:18.216Z",
+            "duration": {
+                "seconds": 590,
+                "human": "00h 09m 50s"
+            }
+        },
+        {
+            "id": "2641e6d3-d2b2-46d6-90ed-e58355537831",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "29a97061-cf32-49c6-80f0-6638f5a9d0bd",
+                        "version": "29de5717-348a-4661-a859-d425352a83c7",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Launch Site",
+                    "asset": {
+                        "id": "56a11b8c-64d1-4537-8893-a9241e4d5b93",
+                        "version": "38e9c016-03be-425e-a233-d8e0e7c6ae22",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/launch-site.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 16,
+                    "deaths": 8,
+                    "assists": 4,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 5
+                },
+                "damage": {
+                    "taken": 2844,
+                    "dealt": 5004
+                },
+                "shots": {
+                    "fired": 485,
+                    "landed": 164,
+                    "missed": 321,
+                    "accuracy": 33.81
+                },
+                "rounds": {
+                    "won": 3,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 2,
+                        "grenades": 2,
+                        "headshots": 2,
+                        "power_weapons": 3
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 9.33,
+                "kdr": 2,
+                "score": 1975
+            },
+            "rank": 2,
+            "outcome": "win",
+            "experience": "arena",
+            "played_at": "2021-11-17T02:53:30.792Z",
+            "duration": {
+                "seconds": 588,
+                "human": "00h 09m 48s"
+            }
+        },
+        {
+            "id": "c7bc7ab4-cdec-433b-9959-942f7458bdb4",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "8650f7e0-1f82-4d45-a127-32dd54df06e5",
+                        "version": "2cb07a58-190d-4fbc-a071-721147faa9e4",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Aquarius",
+                    "asset": {
+                        "id": "33c0766c-ef15-48f8-b298-34aba5bff3b4",
+                        "version": "ab778242-6e70-4d5b-b28e-cabe3d98c344",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/aquarius.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 9,
+                    "deaths": 8,
+                    "assists": 3,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 5
+                },
+                "damage": {
+                    "taken": 2340,
+                    "dealt": 2261
+                },
+                "shots": {
+                    "fired": 281,
+                    "landed": 129,
+                    "missed": 152,
+                    "accuracy": 45.9
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 1,
+                        "grenades": 1,
+                        "headshots": 6,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 2,
+                "kdr": 1.125,
+                "score": 1410
+            },
+            "rank": 2,
+            "outcome": "win",
+            "experience": "arena",
+            "played_at": "2021-11-17T02:45:13.417Z",
+            "duration": {
+                "seconds": 393,
+                "human": "00h 06m 33s"
+            }
+        },
+        {
+            "id": "b62d5c31-491f-4110-8b50-aab324abd227",
+            "details": {
+                "category": {
+                    "name": "Slayer",
+                    "asset": {
+                        "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+                        "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/slayer.png"
+                    }
+                },
+                "map": {
+                    "name": "Live Fire",
+                    "asset": {
+                        "id": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                        "version": "873f0434-8058-4342-bfdf-d954315843ac",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/live-fire.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 19,
+                    "deaths": 6,
+                    "assists": 7,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 7
+                },
+                "damage": {
+                    "taken": 3169,
+                    "dealt": 4505
+                },
+                "shots": {
+                    "fired": 508,
+                    "landed": 190,
+                    "missed": 318,
+                    "accuracy": 37.4
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 1,
+                        "grenades": 2,
+                        "headshots": 8,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 15.33,
+                "kdr": 3.1666666666666665,
+                "score": 2250
+            },
+            "rank": 1,
+            "outcome": "win",
+            "experience": "arena",
+            "played_at": "2021-11-17T02:34:57.820Z",
+            "duration": {
+                "seconds": 529,
+                "human": "00h 08m 49s"
+            }
+        },
+        {
+            "id": "fe643ed8-8f89-41c7-b131-7a62b8ab6e30",
+            "details": {
+                "category": {
+                    "name": "Slayer",
+                    "asset": {
+                        "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+                        "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/slayer.png"
+                    }
+                },
+                "map": {
+                    "name": "Streets",
+                    "asset": {
+                        "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+                        "version": "d147ef1b-222f-4044-837e-714faab4c218",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/streets.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 18,
+                    "deaths": 13,
+                    "assists": 10,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 9
+                },
+                "damage": {
+                    "taken": 4058,
+                    "dealt": 4934
+                },
+                "shots": {
+                    "fired": 567,
+                    "landed": 204,
+                    "missed": 363,
+                    "accuracy": 35.97
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 8,
+                        "grenades": 5,
+                        "headshots": 0,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 8.33,
+                "kdr": 1.3846153846153846,
+                "score": 2300
+            },
+            "rank": 5,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-17T02:19:45.113Z",
+            "duration": {
+                "seconds": 831,
+                "human": "00h 13m 51s"
+            }
+        },
+        {
+            "id": "1f6376ce-55f9-49a9-be9b-ad8445333d6d",
+            "details": {
+                "category": {
+                    "name": "Oddball",
+                    "asset": {
+                        "id": "d3aa10fe-502d-4778-8bc2-db5c3a9242ad",
+                        "version": "bf90f526-d11a-4619-a84d-bfe7d6e9ac8d",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/oddball.png"
+                    }
+                },
+                "map": {
+                    "name": "Live Fire",
+                    "asset": {
+                        "id": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                        "version": "873f0434-8058-4342-bfdf-d954315843ac",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/live-fire.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 16,
+                    "deaths": 19,
+                    "assists": 11,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 6
+                },
+                "damage": {
+                    "taken": 5320,
+                    "dealt": 6710
+                },
+                "shots": {
+                    "fired": 637,
+                    "landed": 287,
+                    "missed": 350,
+                    "accuracy": 45.05
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 1,
+                    "tied": 1
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 4,
+                        "grenades": 0,
+                        "headshots": 6,
+                        "power_weapons": 1
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 0.66,
+                "kdr": 0.8421052631578947,
+                "score": 2185
+            },
+            "rank": 8,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-17T02:05:09.484Z",
+            "duration": {
+                "seconds": 766,
+                "human": "00h 12m 46s"
+            }
+        },
+        {
+            "id": "f52130ff-6b99-4e0a-b5b2-684b456b10dd",
+            "details": {
+                "category": {
+                    "name": "Oddball",
+                    "asset": {
+                        "id": "d3aa10fe-502d-4778-8bc2-db5c3a9242ad",
+                        "version": "bf90f526-d11a-4619-a84d-bfe7d6e9ac8d",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/oddball.png"
+                    }
+                },
+                "map": {
+                    "name": "Recharge",
+                    "asset": {
+                        "id": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                        "version": "b77e09fb-efee-4892-baaa-c269668d058c",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/recharge.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 0
+                },
+                "damage": {
+                    "taken": 0,
+                    "dealt": 0
+                },
+                "shots": {
+                    "fired": 0,
+                    "landed": 0,
+                    "missed": 0,
+                    "accuracy": 0
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 0,
+                        "grenades": 0,
+                        "headshots": 0,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 0,
+                "kdr": 0,
+                "score": 0
+            },
+            "rank": 3,
+            "outcome": "left",
+            "experience": "arena",
+            "played_at": "2021-11-17T01:57:58.392Z",
+            "duration": {
+                "seconds": 298,
+                "human": "00h 04m 58s"
+            }
+        },
+        {
+            "id": "cd01ddea-b17f-4bd7-ba75-58549b84e42b",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "8650f7e0-1f82-4d45-a127-32dd54df06e5",
+                        "version": "2cb07a58-190d-4fbc-a071-721147faa9e4",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Bazaar",
+                    "asset": {
+                        "id": "298d5036-cd43-47b3-a4bd-31e127566593",
+                        "version": "d00907d0-6025-43bf-8ff6-096ed285dcc8",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/bazaar.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 19,
+                    "deaths": 22,
+                    "assists": 11,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 8
+                },
+                "damage": {
+                    "taken": 6604,
+                    "dealt": 6711
+                },
+                "shots": {
+                    "fired": 687,
+                    "landed": 274,
+                    "missed": 413,
+                    "accuracy": 39.88
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 1
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 5,
+                        "grenades": 1,
+                        "headshots": 5,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 0.66,
+                "kdr": 0.8636363636363636,
+                "score": 2545
+            },
+            "rank": 6,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-17T01:37:40.758Z",
+            "duration": {
+                "seconds": 1021,
+                "human": "00h 17m 01s"
+            }
+        },
+        {
+            "id": "889c8cfe-64ee-439b-8d9c-58d1becc8329",
+            "details": {
+                "category": {
+                    "name": "Strongholds",
+                    "asset": {
+                        "id": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                        "version": "2cdb80b0-2a02-4934-a649-2911368d49e1",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/strongholds.png"
+                    }
+                },
+                "map": {
+                    "name": "Live Fire",
+                    "asset": {
+                        "id": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                        "version": "c63ee410-784e-46ae-911e-ab7bc35933b1",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/live-fire.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 24,
+                    "deaths": 20,
+                    "assists": 6,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 6
+                },
+                "damage": {
+                    "taken": 6656,
+                    "dealt": 6814
+                },
+                "shots": {
+                    "fired": 722,
+                    "landed": 354,
+                    "missed": 368,
+                    "accuracy": 49.03
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 5,
+                        "grenades": 2,
+                        "headshots": 16,
+                        "power_weapons": 1
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 6,
+                "kdr": 1.2,
+                "score": 3200
+            },
+            "rank": 5,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-17T01:15:49.723Z",
+            "duration": {
+                "seconds": 867,
+                "human": "00h 14m 27s"
+            }
+        },
+        {
+            "id": "556b4a0c-0c93-4c2e-b892-2b4853fb9ef3",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "29a97061-cf32-49c6-80f0-6638f5a9d0bd",
+                        "version": "29de5717-348a-4661-a859-d425352a83c7",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Launch Site",
+                    "asset": {
+                        "id": "56a11b8c-64d1-4537-8893-a9241e4d5b93",
+                        "version": "38e9c016-03be-425e-a233-d8e0e7c6ae22",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/launch-site.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 3,
+                    "deaths": 7,
+                    "assists": 1,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 1,
+                        "hijacks": 0
+                    },
+                    "medals": 1
+                },
+                "damage": {
+                    "taken": 2009,
+                    "dealt": 3178
+                },
+                "shots": {
+                    "fired": 157,
+                    "landed": 56,
+                    "missed": 101,
+                    "accuracy": 35.66
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 3,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 1,
+                        "grenades": 1,
+                        "headshots": 1,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": -3.66,
+                "kdr": 0.42857142857142855,
+                "score": 350
+            },
+            "rank": 5,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-17T00:05:08.493Z",
+            "duration": {
+                "seconds": 404,
+                "human": "00h 06m 44s"
+            }
+        },
+        {
+            "id": "558c0bb3-608b-4ab9-8428-098fbb73cafe",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "507191c6-a492-4331-b2ae-a172101eb23e",
+                        "version": "ee8c890b-a95f-4154-bac6-0009992d74f6",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Bazaar",
+                    "asset": {
+                        "id": "298d5036-cd43-47b3-a4bd-31e127566593",
+                        "version": "bca803f0-4447-4a5a-aef4-b31e4be77076",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/bazaar.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 19,
+                    "deaths": 30,
+                    "assists": 13,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 5
+                },
+                "damage": {
+                    "taken": 8276,
+                    "dealt": 7777
+                },
+                "shots": {
+                    "fired": 796,
+                    "landed": 435,
+                    "missed": 361,
+                    "accuracy": 54.64
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 1
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 6,
+                        "grenades": 0,
+                        "headshots": 13,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": -6.66,
+                "kdr": 0.6333333333333333,
+                "score": 2885
+            },
+            "rank": 7,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-16T23:43:29.727Z",
+            "duration": {
+                "seconds": 1198,
+                "human": "00h 19m 58s"
+            }
+        },
+        {
+            "id": "b9ed1a58-d0b5-48c1-a5a6-9aa70596f662",
+            "details": {
+                "category": {
+                    "name": "Strongholds",
+                    "asset": {
+                        "id": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                        "version": "2cdb80b0-2a02-4934-a649-2911368d49e1",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/strongholds.png"
+                    }
+                },
+                "map": {
+                    "name": "Streets",
+                    "asset": {
+                        "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+                        "version": "89c80a8b-0eac-4f25-a4b0-fcd17222475d",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/streets.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 22,
+                    "deaths": 18,
+                    "assists": 7,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 8
+                },
+                "damage": {
+                    "taken": 5419,
+                    "dealt": 5897
+                },
+                "shots": {
+                    "fired": 579,
+                    "landed": 273,
+                    "missed": 306,
+                    "accuracy": 47.15
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 4,
+                        "grenades": 2,
+                        "headshots": 12,
+                        "power_weapons": 2
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 6.33,
+                "kdr": 1.2222222222222223,
+                "score": 3100
+            },
+            "rank": 5,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-16T23:26:56.758Z",
+            "duration": {
+                "seconds": 923,
+                "human": "00h 15m 23s"
+            }
+        },
+        {
+            "id": "636da744-5ed1-4384-9fbf-85ab10c470e3",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "8650f7e0-1f82-4d45-a127-32dd54df06e5",
+                        "version": "2cb07a58-190d-4fbc-a071-721147faa9e4",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Behemoth",
+                    "asset": {
+                        "id": "53136ad9-0fd6-4271-8752-31d114b9561e",
+                        "version": "2fae6264-8af1-42a7-8c1a-5398313bcc6f",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/behemoth.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 5,
+                    "deaths": 0,
+                    "assists": 1,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 5
+                },
+                "damage": {
+                    "taken": 165,
+                    "dealt": 846
+                },
+                "shots": {
+                    "fired": 77,
+                    "landed": 34,
+                    "missed": 43,
+                    "accuracy": 44.15
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 0,
+                        "grenades": 0,
+                        "headshots": 3,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 5.33,
+                "kdr": 5,
+                "score": 550
+            },
+            "rank": 9,
+            "outcome": "left",
+            "experience": "pve-bots",
+            "played_at": "2021-11-16T23:21:25.796Z",
+            "duration": {
+                "seconds": 226,
+                "human": "00h 03m 46s"
+            }
+        },
+        {
+            "id": "bb8f54f4-362c-499e-817a-f835897b6149",
+            "details": {
+                "category": {
+                    "name": "Strongholds",
+                    "asset": {
+                        "id": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                        "version": "2cdb80b0-2a02-4934-a649-2911368d49e1",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/strongholds.png"
+                    }
+                },
+                "map": {
+                    "name": "Recharge",
+                    "asset": {
+                        "id": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                        "version": "8ed490af-c0e1-4e0a-b610-50aae3dc053c",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/recharge.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 18,
+                    "deaths": 14,
+                    "assists": 8,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 3
+                },
+                "damage": {
+                    "taken": 5075,
+                    "dealt": 4763
+                },
+                "shots": {
+                    "fired": 610,
+                    "landed": 268,
+                    "missed": 342,
+                    "accuracy": 43.93
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 2,
+                        "grenades": 1,
+                        "headshots": 14,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 6.66,
+                "kdr": 1.2857142857142858,
+                "score": 2825
+            },
+            "rank": 5,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-16T22:08:12.397Z",
+            "duration": {
+                "seconds": 719,
+                "human": "00h 11m 59s"
+            }
+        },
+        {
+            "id": "ccef338c-8628-4872-a65c-488eeffe37e2",
+            "details": {
+                "category": {
+                    "name": "Slayer",
+                    "asset": {
+                        "id": "c2d20d44-8606-4669-b894-afae15b3524f",
+                        "version": "9eee25fe-39db-493f-ab0d-d95403df66b8",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/slayer.png"
+                    }
+                },
+                "map": {
+                    "name": "Live Fire",
+                    "asset": {
+                        "id": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                        "version": "c63ee410-784e-46ae-911e-ab7bc35933b1",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/live-fire.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 13,
+                    "deaths": 12,
+                    "assists": 4,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 6
+                },
+                "damage": {
+                    "taken": 3408,
+                    "dealt": 2927
+                },
+                "shots": {
+                    "fired": 396,
+                    "landed": 166,
+                    "missed": 230,
+                    "accuracy": 41.91
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 4,
+                        "grenades": 2,
+                        "headshots": 6,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 2.33,
+                "kdr": 1.0833333333333333,
+                "score": 1500
+            },
+            "rank": 2,
+            "outcome": "win",
+            "experience": "arena",
+            "played_at": "2021-11-16T21:34:25.077Z",
+            "duration": {
+                "seconds": 443,
+                "human": "00h 07m 23s"
+            }
+        },
+        {
+            "id": "b389c5aa-4d92-4588-9941-c2d65613021b",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "507191c6-a492-4331-b2ae-a172101eb23e",
+                        "version": "ee8c890b-a95f-4154-bac6-0009992d74f6",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Bazaar",
+                    "asset": {
+                        "id": "298d5036-cd43-47b3-a4bd-31e127566593",
+                        "version": "bca803f0-4447-4a5a-aef4-b31e4be77076",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/bazaar.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 7,
+                    "deaths": 17,
+                    "assists": 3,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 1
+                },
+                "damage": {
+                    "taken": 4300,
+                    "dealt": 2848
+                },
+                "shots": {
+                    "fired": 424,
+                    "landed": 181,
+                    "missed": 243,
+                    "accuracy": 42.68
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 0,
+                        "grenades": 1,
+                        "headshots": 6,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": -9,
+                "kdr": 0.4117647058823529,
+                "score": 875
+            },
+            "rank": 5,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-16T21:09:45.909Z",
+            "duration": {
+                "seconds": 512,
+                "human": "00h 08m 32s"
+            }
+        },
+        {
+            "id": "c4c51b02-6647-4073-8674-d3a173b51e78",
+            "details": {
+                "category": {
+                    "name": "Strongholds",
+                    "asset": {
+                        "id": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                        "version": "2cdb80b0-2a02-4934-a649-2911368d49e1",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/strongholds.png"
+                    }
+                },
+                "map": {
+                    "name": "Streets",
+                    "asset": {
+                        "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+                        "version": "89c80a8b-0eac-4f25-a4b0-fcd17222475d",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/streets.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 5,
+                    "deaths": 13,
+                    "assists": 5,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 0
+                },
+                "damage": {
+                    "taken": 3340,
+                    "dealt": 2399
+                },
+                "shots": {
+                    "fired": 289,
+                    "landed": 129,
+                    "missed": 160,
+                    "accuracy": 44.63
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 1,
+                        "grenades": 2,
+                        "headshots": 2,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": -6.33,
+                "kdr": 0.38461538461538464,
+                "score": 1050
+            },
+            "rank": 5,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-16T21:00:34.374Z",
+            "duration": {
+                "seconds": 476,
+                "human": "00h 07m 56s"
+            }
+        },
+        {
+            "id": "3076ff5d-742e-4c1f-a263-c9979bf527e7",
+            "details": {
+                "category": {
+                    "name": "Slayer",
+                    "asset": {
+                        "id": "c2d20d44-8606-4669-b894-afae15b3524f",
+                        "version": "9eee25fe-39db-493f-ab0d-d95403df66b8",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/slayer.png"
+                    }
+                },
+                "map": {
+                    "name": "Aquarius",
+                    "asset": {
+                        "id": "33c0766c-ef15-48f8-b298-34aba5bff3b4",
+                        "version": "1981275f-d570-4d04-ab3b-980e3591a0b5",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/aquarius.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 6,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 2
+                },
+                "damage": {
+                    "taken": 4118,
+                    "dealt": 3869
+                },
+                "shots": {
+                    "fired": 483,
+                    "landed": 205,
+                    "missed": 278,
+                    "accuracy": 42.44
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 2,
+                        "grenades": 0,
+                        "headshots": 12,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 3,
+                "kdr": 1.0666666666666667,
+                "score": 1900
+            },
+            "rank": 1,
+            "outcome": "win",
+            "experience": "arena",
+            "played_at": "2021-11-16T20:50:18.840Z",
+            "duration": {
+                "seconds": 518,
+                "human": "00h 08m 38s"
+            }
+        },
+        {
+            "id": "1dd76b68-eb3b-4920-a335-8ac62584a966",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "8650f7e0-1f82-4d45-a127-32dd54df06e5",
+                        "version": "2cb07a58-190d-4fbc-a071-721147faa9e4",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Behemoth",
+                    "asset": {
+                        "id": "53136ad9-0fd6-4271-8752-31d114b9561e",
+                        "version": "2fae6264-8af1-42a7-8c1a-5398313bcc6f",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/behemoth.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 10,
+                    "deaths": 14,
+                    "assists": 6,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 1,
+                        "hijacks": 0
+                    },
+                    "medals": 4
+                },
+                "damage": {
+                    "taken": 3646,
+                    "dealt": 5150
+                },
+                "shots": {
+                    "fired": 609,
+                    "landed": 202,
+                    "missed": 407,
+                    "accuracy": 33.16
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 1,
+                        "grenades": 2,
+                        "headshots": 4,
+                        "power_weapons": 1
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": -2,
+                "kdr": 0.7142857142857143,
+                "score": 1370
+            },
+            "rank": 7,
+            "outcome": "loss",
+            "experience": "arena",
+            "played_at": "2021-11-16T07:45:34.368Z",
+            "duration": {
+                "seconds": 676,
+                "human": "00h 11m 16s"
+            }
+        },
+        {
+            "id": "9e7e535a-a4c1-4a88-95e6-17ad816d50e7",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "8650f7e0-1f82-4d45-a127-32dd54df06e5",
+                        "version": "2cb07a58-190d-4fbc-a071-721147faa9e4",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Bazaar",
+                    "asset": {
+                        "id": "298d5036-cd43-47b3-a4bd-31e127566593",
+                        "version": "d00907d0-6025-43bf-8ff6-096ed285dcc8",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/bazaar.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 20,
+                    "deaths": 11,
+                    "assists": 6,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 8
+                },
+                "damage": {
+                    "taken": 3900,
+                    "dealt": 6274
+                },
+                "shots": {
+                    "fired": 554,
+                    "landed": 246,
+                    "missed": 308,
+                    "accuracy": 44.4
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 6,
+                        "grenades": 2,
+                        "headshots": 6,
+                        "power_weapons": 2
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 11,
+                "kdr": 1.8181818181818181,
+                "score": 2435
+            },
+            "rank": 2,
+            "outcome": "win",
+            "experience": "arena",
+            "played_at": "2021-11-16T07:34:25.092Z",
+            "duration": {
+                "seconds": 618,
+                "human": "00h 10m 18s"
+            }
+        },
+        {
+            "id": "9a028d56-ec98-4687-8c04-498aa0baca49",
+            "details": {
+                "category": {
+                    "name": "Slayer",
+                    "asset": {
+                        "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+                        "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/slayer.png"
+                    }
+                },
+                "map": {
+                    "name": "Live Fire",
+                    "asset": {
+                        "id": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                        "version": "873f0434-8058-4342-bfdf-d954315843ac",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/live-fire.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 16,
+                    "deaths": 12,
+                    "assists": 9,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 3
+                },
+                "damage": {
+                    "taken": 3156,
+                    "dealt": 5020
+                },
+                "shots": {
+                    "fired": 419,
+                    "landed": 169,
+                    "missed": 250,
+                    "accuracy": 40.33
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 2,
+                        "grenades": 2,
+                        "headshots": 9,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 7,
+                "kdr": 1.3333333333333333,
+                "score": 2050
+            },
+            "rank": 1,
+            "outcome": "win",
+            "experience": "arena",
+            "played_at": "2021-11-16T07:24:44.556Z",
+            "duration": {
+                "seconds": 489,
+                "human": "00h 08m 09s"
+            }
+        },
+        {
+            "id": "c4a1f58b-af00-4745-bc28-26f4bf0cedcb",
+            "details": {
+                "category": {
+                    "name": "Slayer",
+                    "asset": {
+                        "id": "920d628c-9eae-47a6-b96c-d141cf36ade2",
+                        "version": "457cbadd-5650-44fb-b749-88ca50e89746",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/slayer.png"
+                    }
+                },
+                "map": {
+                    "name": "Fragmentation",
+                    "asset": {
+                        "id": "4f196016-0101-4844-8358-2504f7c44656",
+                        "version": "b7a5f610-4a9c-49de-85f0-2e9aa81193a3",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/fragmentation.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 6,
+                    "deaths": 5,
+                    "assists": 3,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 2
+                },
+                "damage": {
+                    "taken": 1740,
+                    "dealt": 2505
+                },
+                "shots": {
+                    "fired": 258,
+                    "landed": 112,
+                    "missed": 146,
+                    "accuracy": 43.41
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 1,
+                        "grenades": 1,
+                        "headshots": 4,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 0,
+                        "callouts": 0
+                    }
+                },
+                "kda": 2,
+                "kdr": 1.2,
+                "score": 750
+            },
+            "rank": 25,
+            "outcome": "left",
+            "experience": "btb",
+            "played_at": "2021-11-16T07:12:00.201Z",
+            "duration": {
+                "seconds": 696,
+                "human": "00h 11m 36s"
+            }
+        },
+        {
+            "id": "e5c6986d-19be-4590-b0ec-0b97939292f4",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "1519c0cb-759d-424e-a68e-b9cb870b1e14",
+                        "version": "bb4138ae-465d-4a61-b175-3a0e82e3f272",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Deadlock",
+                    "asset": {
+                        "id": "08607bf4-6abe-4a5b-9547-290a6cc1433e",
+                        "version": "0030c1e3-d8b2-4b60-a060-4873d8f4d4a2",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/deadlock.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 6,
+                    "deaths": 12,
+                    "assists": 19,
+                    "betrayals": 1,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 3,
+                        "hijacks": 0
+                    },
+                    "medals": 3
+                },
+                "damage": {
+                    "taken": 3446,
+                    "dealt": 3339
+                },
+                "shots": {
+                    "fired": 503,
+                    "landed": 144,
+                    "missed": 359,
+                    "accuracy": 28.62
+                },
+                "rounds": {
+                    "won": 1,
+                    "lost": 0,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 0,
+                        "grenades": 0,
+                        "headshots": 1,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 7,
+                        "callouts": 0
+                    }
+                },
+                "kda": 0.33,
+                "kdr": 0.5,
+                "score": 1445
+            },
+            "rank": 4,
+            "outcome": "win",
+            "experience": "btb",
+            "played_at": "2021-11-16T06:52:45.849Z",
+            "duration": {
+                "seconds": 891,
+                "human": "00h 14m 51s"
+            }
+        },
+        {
+            "id": "c939d47f-8de7-4a87-a08b-f1c3944823d9",
+            "details": {
+                "category": {
+                    "name": "CTF",
+                    "asset": {
+                        "id": "1519c0cb-759d-424e-a68e-b9cb870b1e14",
+                        "version": "bb4138ae-465d-4a61-b175-3a0e82e3f272",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/ugcgamevariants/ctf.png"
+                    }
+                },
+                "map": {
+                    "name": "Fragmentation",
+                    "asset": {
+                        "id": "4f196016-0101-4844-8358-2504f7c44656",
+                        "version": "b7a5f610-4a9c-49de-85f0-2e9aa81193a3",
+                        "thumbnail_url": "https://avtqvzpooapfgoykpwxd.supabase.in/storage/v1/object/public/infinite-assets/maps/fragmentation.png"
+                    }
+                }
+            },
+            "teams": {
+                "enabled": true,
+                "scoring": true
+            },
+            "stats": {
+                "summary": {
+                    "kills": 8,
+                    "deaths": 19,
+                    "assists": 3,
+                    "betrayals": 0,
+                    "suicides": 0,
+                    "vehicles": {
+                        "destroys": 0,
+                        "hijacks": 0
+                    },
+                    "medals": 4
+                },
+                "damage": {
+                    "taken": 4818,
+                    "dealt": 4852
+                },
+                "shots": {
+                    "fired": 541,
+                    "landed": 168,
+                    "missed": 373,
+                    "accuracy": 31.05
+                },
+                "rounds": {
+                    "won": 0,
+                    "lost": 1,
+                    "tied": 0
+                },
+                "breakdowns": {
+                    "kills": {
+                        "melee": 3,
+                        "grenades": 1,
+                        "headshots": 2,
+                        "power_weapons": 0
+                    },
+                    "assists": {
+                        "emp": 0,
+                        "driver": 2,
+                        "callouts": 0
+                    }
+                },
+                "kda": -10,
+                "kdr": 0.42105263157894735,
+                "score": 925
+            },
+            "rank": 13,
+            "outcome": "loss",
+            "experience": "btb",
+            "played_at": "2021-11-16T06:34:40.827Z",
+            "duration": {
+                "seconds": 1024,
+                "human": "00h 17m 04s"
+            }
+        }
+    ],
+    "count": 25,
+    "paging": {
+        "page": 2,
+        "previous": 1,
+        "next": 3
+    },
+    "additional": {
+        "gamertag": "WindtalkerV2"
+    }
+}

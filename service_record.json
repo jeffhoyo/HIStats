@@ -1,0 +1,64 @@
+Download CyberChef file_download
+Last build: 3 months ago
+Options settings About / Support help
+json
+
+{"data":{"summary":{"kills":820,"deaths":767,"assists":367,"betrayals":2,"suicides":1,"vehicles":{"destroys":6,"hijacks":0},"medals":311},"damage":{"taken":229208,"dealt":265319,"average":4422},"shots":{"fired":26648,"landed":12343,"missed":14305,"accuracy":46.31867307114981},"breakdowns":{"kills":{"melee":127,"grenades":61,"headshots":468,"power_weapons":29},"assists":{"emp":0,"driver":9,"callouts":0},"matches":{"wins":25,"losses":28,"left":2,"draws":1}},"kda":2.922222222222223,"kdr":1.0691003911342893,"total_score":111455,"matches_played":60,"time_played":{"seconds":37362,"human":"10h 22m 42s"},"win_rate":41.66666666666667},"additional":{"gamertag":"WindtalkerV2"}}
+{
+    "data": {
+        "summary": {
+            "kills": 820,
+            "deaths": 767,
+            "assists": 367,
+            "betrayals": 2,
+            "suicides": 1,
+            "vehicles": {
+                "destroys": 6,
+                "hijacks": 0
+            },
+            "medals": 311
+        },
+        "damage": {
+            "taken": 229208,
+            "dealt": 265319,
+            "average": 4422
+        },
+        "shots": {
+            "fired": 26648,
+            "landed": 12343,
+            "missed": 14305,
+            "accuracy": 46.31867307114981
+        },
+        "breakdowns": {
+            "kills": {
+                "melee": 127,
+                "grenades": 61,
+                "headshots": 468,
+                "power_weapons": 29
+            },
+            "assists": {
+                "emp": 0,
+                "driver": 9,
+                "callouts": 0
+            },
+            "matches": {
+                "wins": 25,
+                "losses": 28,
+                "left": 2,
+                "draws": 1
+            }
+        },
+        "kda": 2.922222222222223,
+        "kdr": 1.0691003911342893,
+        "total_score": 111455,
+        "matches_played": 60,
+        "time_played": {
+            "seconds": 37362,
+            "human": "10h 22m 42s"
+        },
+        "win_rate": 41.66666666666667
+    },
+    "additional": {
+        "gamertag": "WindtalkerV2"
+    }
+}
